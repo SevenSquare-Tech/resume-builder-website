@@ -3,6 +3,8 @@
 Professional CV Builder: Open-Source, Secure, and ATS-Optimized
 This project is a unique, privacy-focused resume builder designed to help you create professional CVs with ease. It offers complete security, customization options, and portability, ensuring your personal data remains protected. As an open-source project, it is entirely free to use and will remain so forever. Users can generate downloadable PDF versions of their resumes in various pre-designed templates.
 
+[Step-by-step Guide to Create a Professional Resume Builder Website in Angular.](https://www.sevensquaretech.com/create-professional-resume-builder-website-angular-github-code/)
+
 ## Features
 
 - **Privacy-Centric**: Your data stays with you—no external storage or third-party access.
